@@ -42,6 +42,7 @@ Hi, I'm Osman, a passionate Frontend / MERN Stack Developer who loves building m
 ## 🚀 Featured Projects
 
 https://b13-a10-leagaleasy-client.vercel.app/
+https://b13-assignment-client.vercel.app/
 
 ---
 
